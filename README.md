@@ -6,7 +6,7 @@
 - 🚀 &nbsp; I’m currently exploring DOTS, AI, Web3
 - 💬 &nbsp; Ask me anything [here](https://github.com/agolho/agolho/issues)! I am happy to help.
 - 📫 &nbsp; Reach me out: agolho@gmail.com
-
+- 🌐 Check out my portfolio [here](https://www.canva.com/design/DAGFq6qB6VM/k2RS3wza_8939sZzA4oOpw/view?utm_content=DAGFq6qB6VM&utm_campaign=designshare&utm_medium=link&utm_source=editor)!
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
