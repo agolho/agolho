@@ -13,8 +13,6 @@
 - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
 - 🍕 &nbsp; Meetups & Tech Events & GameJams.
 
-https://www.canva.com/design/DAGFq6qB6VM/PbqgC1lxuNQ5jhGKuv0HCg/view
-
 ### Languages and Tools:
 
 <code><img height="27" src="https://raw.githubusercontent.com/halak/unity-editor-icons/master/icons/small/BuildSettings.Editor.png" alt="javascript"></code>
