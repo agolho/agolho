@@ -4,7 +4,7 @@
 
 - 🛠 &nbsp; I’m currently working with Unity3D, Unreal Engine, NextJS, TS 
 - 🚀 &nbsp; I’m currently exploring DOTS, AI, Web3
-- 💬 &nbsp; Ask me anything [here](mailto:agolho@gmail.com)! I am happy to help.
+- 💬 &nbsp; Ask me anything [here](https://github.com/agolho/agolho/issues)! I am happy to help.
 - 📫 &nbsp; Reach me out: agolho@gmail.com
 
 ### My Absolute Favorites:
