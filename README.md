@@ -1,27 +1,46 @@
+# Senior Game Developer
 
-### Talking about Personal Stuff:
+With over 4 years of professional experience in the gaming industry, I have contributed to the development of more than 40 titles across Android, iOS, and WebGL. My expertise lies in Unity3D and C#, and I am passionate about creating engaging and polished gameplay experiences.
 
-- 🛠 &nbsp; I’m currently working with Unity3D
-- 🚀 &nbsp; I’m currently exploring DOTS, AI
-- 💬 &nbsp; Ask me anything [here](https://github.com/agolho/agolho/issues)! I am happy to help.
-- 📫 &nbsp; Reach me out: agolho@gmail.com
-- 🌐 Check out my portfolio [here](https://www.canva.com/design/DAGFq6qB6VM/k2RS3wza_8939sZzA4oOpw/view?utm_content=DAGFq6qB6VM&utm_campaign=designshare&utm_medium=link&utm_source=editor)!
-### My Absolute Favorites:
+As a hobbyist, I enjoy building full-stack web applications with Next.js and exploring new technologies.
 
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & GameJams.
+---
 
-### Languages and Tools:
+###  Core Competencies
 
-<code><img height="27" src="https://raw.githubusercontent.com/halak/unity-editor-icons/master/icons/small/BuildSettings.Editor.png" alt="javascript"></code>
-<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png" alt="csharp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+- **Game Development:** Unity3D, C#, Gameplay Mechanics, UI/UX Implementation, Performance Optimization
+- **Web Development:** Next.js, React, JavaScript, TypeScript, HTML/CSS
+- **Backend & Databases:** Node.js, Firebase, SQL, MongoDB
+- **Platforms & Tools:** Git, Android Studio, Xcode, Google Play Console, App Store Connect
+
+---
+
+###  Highlighted Project
+
+**NFT-Gated Gaming Website**
+
+A web platform where users holding specific NFTs gain exclusive access to WebGL games.
+
+- **Features:** Wallet connection for NFT verification, dynamic content access, and a high-score leaderboard.
+- **Tech Stack:** Next.js, Unity (for WebGL games), Firebase (for leaderboard data).
+
+---
+
+### Professional Experience
+
+**Frontend Game Developer** | *Video Slots Game Company* | *2 years*
+- Developed and maintained frontend systems for a variety of video slot games.
+- Collaborated with designers and artists to implement new features and user interfaces.
+- Integrated third-party SDKs for analytics, marketing, and ad mediation.
+
+**Game Developer** | *ON OFF GAMES* | *2 years*
+- Contributed to the development of hyper-casual, hybrid-casual, idle arcade, and puzzle games for mobile platforms.
+- Participated in the full game development lifecycle, from concept to release.
+- Gained extensive experience with mobile workflows for Android and iOS.
+
+---
+
+###  Contact
+
+- 📫 **Email:** agolho@gmail.com
+- 🌐 **Portfolio:** [View Here](https://www.canva.com/design/DAGFq6qB6VM/k2RS3wza_8939sZzA4oOpw/view?utm_content=DAGFq6qB6VM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
